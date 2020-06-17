@@ -1,0 +1,31 @@
+@font-face {
+    font-family: 'PTSansBold';
+    src: url('fonts/PTSans-Bold/PTSans-Bold.eot');
+    src: local('☺'), url('fonts/PTSans-Bold/PTSans-Bold.woff') format('woff'), url('fonts/PTSans-Bold/PTSans-Bold.ttf') format('truetype'), url('fonts/PTSans-Bold/PTSans-Bold.svg') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'ProximaNovaCond';
+    src: url('fonts/ProximaNovaCond/ProximaNovaCond.eot');
+    src: local('☺'), url('fonts/ProximaNovaCond/ProximaNovaCond.woff') format('woff'), url('fonts/ProximaNovaCond/ProximaNovaCond.ttf') format('truetype'), url('fonts/ProximaNovaCond/ProximaNovaCond.svg') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'PTSans';
+    src: url('fonts/PTSans-Regular/PTSans-Regular.eot');
+    src: local('☺'), url('fonts/PTSans-Regular/PTSans-Regular.woff') format('woff'), url('fonts/PTSans-Regular/PTSans-Regular.ttf') format('truetype'), url('fonts/PTSans-Regular/PTSans-Regular.svg') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'PTSansNarrow';
+    src: url('fonts/PTSansNarrow-Regular/PTSansNarrow-Regular.eot');
+    src: local('☺'), url('fonts/PTSansNarrow-Regular/PTSansNarrow-Regular.woff') format('woff'), url('fonts/PTSansNarrow-Regular/PTSansNarrow-Regular.ttf') format('truetype'), url('fonts/PTSansNarrow-Regular/PTSansNarrow-Regular.svg') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
